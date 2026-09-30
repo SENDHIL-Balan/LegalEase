@@ -76,7 +76,7 @@ cp .env.example .env
 ```
 Configure your Gemini API key:
 ```env
-GEMINI_API_KEY="your-gemini-api-key"
+GEMINI_API_KEY="gemini-api-key"
 GEMINI_MODEL="gemini-3.8-flash"
 ```
 
